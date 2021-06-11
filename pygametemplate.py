@@ -1,8 +1,8 @@
 import pygame
 import random
 
-WIDTH = 500
-HEIGHT = 500
+WIDTH = 1000
+HEIGHT = 600
 FPS = 30
 blue = (0, 0, 255)
 black = (0, 0, 0)
