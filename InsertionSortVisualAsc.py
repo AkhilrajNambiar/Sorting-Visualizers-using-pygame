@@ -75,7 +75,7 @@ while running:
             all_sprites.update()
             # rendering part
             screen.fill(blue)
-            font_draw(screen, 'Insertion Sort Visualization', 60, (0,0))
+            font_draw(screen, 'Insertion Sort Visualization(Asc.)', 60, (0,0))
             all_sprites.draw(screen)
             # after drawing everything we have to flip the screen
             pygame.display.flip()
